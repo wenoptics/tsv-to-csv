@@ -1,3 +1,3 @@
 # tsv-to-csv
 
-run `tsv_to_csv.py`
+run `tsv_csv.py`
